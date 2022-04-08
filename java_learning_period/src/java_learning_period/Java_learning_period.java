@@ -15,7 +15,7 @@ public class Java_learning_period {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("jfdjf");
+        System.out.println("jfdjddddf");
     }
     
 }
