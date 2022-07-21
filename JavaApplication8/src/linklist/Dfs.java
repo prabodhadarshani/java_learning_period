@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication8;
+package linklist;
 
 /**
  *
  * @author Madhsuha
  */
-public class JavaApplication8 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class Dfs {
+    static void traversal(Node node){
+      if(node == null)
+          return;
+        System.out.println(node.data);
+        traversal(node.left);
+        traversal(node.right);
+      
     }
     
 }
