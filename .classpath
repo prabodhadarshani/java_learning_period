@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="abcdbg/src"/>
+	<classpathentry kind="src" path="ciscom/src"/>
+	<classpathentry kind="src" path="demogit/src/main/java"/>
+	<classpathentry kind="src" path="demogit/src/test/java"/>
+	<classpathentry kind="src" path="eclipsgit/testgit/src"/>
+	<classpathentry kind="src" path="JavaApplication8/src"/>
+	<classpathentry kind="src" path="testeclips/src"/>
+	<classpathentry kind="lib" path="demogit/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="JavaApplication8/build/classes"/>
+</classpath>
